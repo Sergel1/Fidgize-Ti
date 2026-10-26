@@ -57,6 +57,7 @@ FIDGIEZ Ti combines a mechanical fidget wheel with productivity features. The de
 - [ ] PCB ordered
 - [ ] Hardware assembly
 - [ ] Firmware testing
+- [ ] cad files in creation few generated
 
 ## Repository Contents
 
