@@ -38,8 +38,9 @@ Design files include:
 ![Schematic]/
 ![PCB Back](assets/week3_PCB-3d-back.png)
 ![PCB editor](assets/FIDGIZE_TI_PCB_Editor.png)
-![Manufacturing Gerber files]/aseets/FIDGIEZ Ti-pcb.zip)
-)
+![PCB schematics](assets/FIDGIZE TI_schemantics.png)
+![Manufacturing Gerber files]/.kicad_pcb /FIDGIEZ Ti-pcb.zip)
+
 Firmware
 
 The firmware (incomplte) will run on the Raspberry Pi Pico and provide:
