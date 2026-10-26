@@ -35,7 +35,6 @@ This project includes a custom KiCad PCB designed specifically for the FIDGIEZ T
 
 Design files include:
 
-![Schematic]/
 ![PCB Back](assets/week3_PCB-3d-back.png)
 ![PCB editor](assets/FIDGIZE_TI_PCB_Editor.png)
 ![PCB schematics](assets/FIDGIZE TI_schemantics.png)
@@ -53,6 +52,5 @@ OLED menu system
 Persistent settings storage
 
 
-Project Images
+bom images
 
-Add at least 2 images here.
